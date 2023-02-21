@@ -1,3 +1,17 @@
 :root {
-    
+    --Primary-brand-color: #4D5AE5;
+    --Pressed-state-color: #404BBF;
+    --Dark-color: #2E2F42;
+    --Success-color: #31D0AA;
+    --Text-color: #434455;
+    --Subtle-text-color: #8E8F99;
+    --Accent-color: #E7E9FC;
+    --Light-color: #F4F4FD;
+    --Modal-overlay-color: #2E2F42;
+    --Hero-background-color: #2E2F42;
 }
+body {
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+/* header */
